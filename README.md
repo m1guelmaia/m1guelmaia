@@ -23,3 +23,7 @@ Developing my skills as a back-end developer through real projects.
 
 [![LINKEDIN](https://img.shields.io/badge/Miguel%20Maia-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m1guelmaia/)
 [![INSTAGRAM](https://img.shields.io/badge/m1guelmaia-000000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m1guelmaia/)
+
+#### GitHub Stats
+
+![STREAK STATS](https://streak-stats.demolab.com/?user=m1guelmaia&theme=dark&hide_border=true&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF)
